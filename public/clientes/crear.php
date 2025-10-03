@@ -1,0 +1,2 @@
+<?php
+// Formulario crear cliente ?>

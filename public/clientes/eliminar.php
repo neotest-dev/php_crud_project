@@ -1,0 +1,2 @@
+<?php
+// Eliminar cliente ?>
